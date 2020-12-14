@@ -1,1 +1,1 @@
-# TowerSiege-2 by alvin thomas
+# TowerSiege-2 by ibrahim siamwala
